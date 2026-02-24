@@ -132,5 +132,11 @@ http://localhost:5000
 ## Author
 
 Hanzala Israr  
-BS Computer Science – 4th Semester  
-DevOps Bootcamp Student
+
+
+<img width="1864" height="1123" alt="image" src="https://github.com/user-attachments/assets/281ce561-7f41-419a-8bc9-186a2e82a260" />
+
+
+
+
+<img width="1579" height="737" alt="image" src="https://github.com/user-attachments/assets/0291e3e0-70c5-4aa5-a82b-dfc3779972ea" />
